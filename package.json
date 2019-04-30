@@ -2,7 +2,7 @@
   "name": "lvlup_homework_5",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "src/script.js",
   "scripts": {
     "test": "jest"
   },
